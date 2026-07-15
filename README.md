@@ -29,14 +29,17 @@
 ```text
 BillingSoFT/
 ├── client/
-│   ├── src/
+│   ├─ src/
+|      |──── app.jsx
+|      |──── main.jsx
 │   ├── public/
 │   └── package.json
+|  
 │
 ├── server/
 │   ├── routes/
 │   ├── controllers/
-│   ├── models/
+│   ├─ ─ models/
 │   └── package.json
 │
 └── README.md
