@@ -7,7 +7,7 @@
 ## 📊 Project Information
 
 | Property | Value | Author
-|----------|--------| 
+|----------|--------|-------|
 | Name | BillingSoFT | Emonali 
 | Version | 1.0.0 |  
 | Status | 🟢 Active | 
