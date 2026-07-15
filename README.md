@@ -6,12 +6,12 @@
 
 ## 📊 Project Information
 
-| Property | Value |
-|----------|--------|
-| Name | BillingSoFT |
-| Version | 1.0.0 |
-| Status | 🟢 Active |
-| License | MIT |
+| Property | Value | Author
+|----------|--------| 
+| Name | BillingSoFT | Emonali 
+| Version | 1.0.0 |  
+| Status | 🟢 Active | 
+| License | MIT | 
 
 ---
 
